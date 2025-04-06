@@ -1,4 +1,12 @@
-Here's a **GitHub-friendly** `README.md` file for your **HybridCRT-Expo** repository.  
+**HybridCRT-Expo** 
+
+---
+
+## 👨‍💻 Made By  
+- **Tanay Gupta** - RA2311030010109  
+- **Avinash Shankar** - RA2311030010110  
+
+
 
 ---
 
